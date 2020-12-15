@@ -1,2 +1,2 @@
-# Meu-portifolio
-Estou montando um portifólio com meus projetos.
+# Meu-portifólio
+Estou montando um portifólio com meus projetos de estudante.
